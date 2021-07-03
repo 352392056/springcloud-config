@@ -1,0 +1,2 @@
+config:
+ init: "3306"
