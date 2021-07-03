@@ -1,1 +1,2 @@
-eureka
+eureka:
+  cofig: "3306"
